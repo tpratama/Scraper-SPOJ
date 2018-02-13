@@ -1,0 +1,16 @@
+Get submission BLCATS - tpratama, offset 0
+Get submission BLCATS - enverol, offset 0
+Get submission COLORCAT - tpratama, offset 0
+Get submission COLORCAT - enverol, offset 0
+{ Error: ENOENT: no such file or directory, open 'D:\Scraper-SPOJ\recap\BLCATS.json'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Scraper-SPOJ\\recap\\BLCATS.json' }
+done
+{ Error: ENOENT: no such file or directory, open 'D:\Scraper-SPOJ\recap\COLORCAT.json'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Scraper-SPOJ\\recap\\COLORCAT.json' }
+done
